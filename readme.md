@@ -3,7 +3,7 @@ A Simple Hello World API
 
 Part of the NodeJS masterclass from Pirple.
 
-My rather stumbling first attempt at a screencast is here https://youtu.be/ZHKLFx5Mlew
+My rather stumbling first attempt at a screencast is here https://www.youtube.com/watch?v=XJvDrLE10og
 
 Requirements:
 
